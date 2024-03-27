@@ -1,1 +1,9 @@
-about.html
+extra.html
+#*.txt
+#*.java
+
+#target2/*
+
+#target2/subtarget/*.html
+
+sub[2-3].html
